@@ -15,3 +15,7 @@
 ## Dashbords workspaces
 
 * [Page 2](dashbords-workspaces/page-2.md)
+
+## Discord bot
+
+* [Page 1](discord-bot/page-1.md)

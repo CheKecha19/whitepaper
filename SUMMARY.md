@@ -19,3 +19,7 @@
 ## Discord bot
 
 * [Page 1](discord-bot/page-1.md)
+
+## Оплата
+
+* [Page 4](oplata/page-4.md)
